@@ -49,3 +49,5 @@ https://swiperjs.com/
 
 ## 같이 보면 좋을 JS 강의 책
 ![image](https://github.com/user-attachments/assets/b50accee-4c59-4cc1-861d-671c9cc65089)
+
+## html status 검색해보기
