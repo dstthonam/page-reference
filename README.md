@@ -12,6 +12,8 @@ https://marshallku.com/dev/%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%A0%84%ED%99%98-%ED%9A
 스와이퍼 라이브러리
 https://swiperjs.com/
 
+![image](https://github.com/user-attachments/assets/ea25d5d3-efd0-4ae9-8b39-9cae813c96dd)
+
 ## 모던 자바스크립트(책) 읽는 방법
 - this 렉시컬스코프 프로미스 호출스택 실행컨텍스트 5개 알면 js를 자기머릿속에서 돌릴 수 있음 - 이 5개는 숙지하기
 
@@ -41,3 +43,9 @@ https://swiperjs.com/
 - 47 중요
 - 48 매우 중요
 - 49 프론트는 꼭 알아야함
+
+## 같이 보면 좋을 JS 강의
+![image](https://github.com/user-attachments/assets/1f2bea3e-e984-4640-9b06-0927873a9257)
+
+## 같이 보면 좋을 JS 강의 책
+![image](https://github.com/user-attachments/assets/b50accee-4c59-4cc1-861d-671c9cc65089)
