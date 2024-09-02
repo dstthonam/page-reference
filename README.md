@@ -51,3 +51,6 @@ https://swiperjs.com/
 ![image](https://github.com/user-attachments/assets/b50accee-4c59-4cc1-861d-671c9cc65089)
 
 ## html status 검색해보기
+
+## wordpress hierarchy
+![image](https://github.com/user-attachments/assets/51852b49-4597-4a63-9dfe-92c026461600)
